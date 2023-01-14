@@ -1,4 +1,4 @@
-# AgiProbot_Motor_Segmentation_WACV2023
+# AgiProbot_Motor_Segmentation
 
 This project introduces a way to solve industrial automation problems using deep learning. Industrial problems : the factory has collected a lot of discarded motors, but there are a lot of parts in them that can be reused, so we need to disassemble the discarded motors, so we need to get the exact location of the screws. Our solution is to use deep learning to semantically segment and utilize the 3D point cloud collected by the sensor. The result of the division gives the position of the screw
 
